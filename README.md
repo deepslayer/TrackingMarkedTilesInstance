@@ -11,14 +11,6 @@ This project provides a script for the DreamBot framework that allows users to m
 
 ## How to Use
 
-1. **Setup DreamBot**: Ensure you have DreamBot installed. You can download it from the [DreamBot website](https://dreambot.org/).
-
-2. **Clone the Repository**: Clone this repository to your local machine.
-
-    ```sh
-    git clone https://github.com/yourusername/TileMarkerScript.git
-    ```
-
 3. **Add Script to DreamBot**: Copy the `src` folder to the `Scripts` directory of your DreamBot installation.
 
 4. **Compile the Script**:
