@@ -25,8 +25,8 @@ This project provides a script for the DreamBot framework that allows users to m
 ## Usage Instructions
 
 - **Marking Tiles**: 
-    - Press and hold the Shift key.
-    - Click on the tile you want to mark. The tile will be marked with a semi-transparent red overlay.
+    - Press the Shift key with the mouse over the tile you want to mark.
+    - will be marked with a semi-transparent red overlay.
     - If the tile is already marked, it will not be marked again.
 
 - **Exiting the Script**:
