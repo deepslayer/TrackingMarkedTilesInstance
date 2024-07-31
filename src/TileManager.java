@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class TileManager {
-    private static final String FILE_PATH = "D:\\marked_tiles.dat"; // adjust to your file path
+    private static final String FILE_PATH = "D:\\marked_tiles.dat"; // Adjust to your file path
     private final List<MarkedTile> markedTiles = new ArrayList<>();
 
     public void addTile(MarkedTile tile) {
