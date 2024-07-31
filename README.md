@@ -4,7 +4,7 @@ This project provides a script for the DreamBot framework that allows users to m
 
 ## Features
 
-- Mark tiles by pressing the Shift key and clicking on the desired tile. (Make sure to allow user input while the script is running)
+- Mark tiles by pressing the Shift key while hovering the mouse over the desired tile. (Make sure to allow user input while the script is running)
 - The marked tiles are saved and loaded automatically.
 - Supports dynamic/instanced regions, ensuring marked tiles are remembered correctly.
 - Prevents duplicate marking of tiles.
